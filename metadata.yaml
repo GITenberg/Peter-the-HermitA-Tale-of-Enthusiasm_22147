@@ -1,0 +1,31 @@
+_repo: Peter-the-HermitA-Tale-of-Enthusiasm_22147
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goodsell, Daniel A. (Daniel Ayres)
+    alias: Goodsell, D. A. (Daniel Ayres)
+    birthdate: 1840
+    deathdate: 1909
+    gutenberg_agent_id: '6345'
+    url: http://www.gutenberg.org/2009/agents/6345
+description: ''
+gutenberg_issued: '2007-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22147'
+  lccn: 06035592
+language: en
+publication_note: "Cincinnati: Jennings and Graham\r\nNew York: Eaton and Mains"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peter, the Hermit, -1115'
+- !lcc 'D'
+tableOfContents: "I.\tPeter the Hermit\r\nII.\tThe Man and His Message\r\nIII.\tThe\
+  \ March and the Battle\r\nIV.\tThe Capture of Jerusalem"
+title: 'Peter the Hermit: A Tale of Enthusiasm'
+url: http://www.gutenberg.org/ebooks/22147
